@@ -67,8 +67,7 @@ appium server --address 127.0.0.1 --port 4723 --base-path /
 2. Ejecutá las pruebas desde el IDE o con Maven:
 
 ```bash
-mvn test
-
+mvn test```
 
 
 ---
