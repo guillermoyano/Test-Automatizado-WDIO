@@ -1,6 +1,6 @@
 # 📱 Proyecto de Automatización Mobile - App WDIO Demo con Appium
 
-Este proyecto implementa pruebas automatizadas sobre la aplicación móvil **WebDriverIO Demo App (v1.0.8)**, diseñada para el aprendizaje y la práctica de automatización mobile. Las pruebas fueron desarrolladas en **Java** usando **Appium**, **JUnit**, y ejecutadas sobre un **emulador Android** (Pixel 7) desde Android Studio.
+Este proyecto implementa pruebas automatizadas sobre la aplicación móvil **WebDriverIO Demo App (v1.0.8)**, diseñada para el aprendizaje y la práctica de automatización móvil. Las pruebas fueron desarrolladas en **Java** utilizando **Appium**, **JUnit**, y ejecutadas sobre un **emulador Android** (Pixel 7) desde **Android Studio**.
 
 ---
 
@@ -8,12 +8,12 @@ Este proyecto implementa pruebas automatizadas sobre la aplicación móvil **Web
 
 - **Lenguaje:** Java (JDK 21)
 - **Framework de automatización:** Appium 9.3.0
-- **Testing frameworks:** JUnit 5, TestNG (opcional), JUnit 4 (por compatibilidad)
-- **Build tool:** Maven
+- **Frameworks de testing:** JUnit 5, TestNG (opcional), JUnit 4 (por compatibilidad)
+- **Herramienta de build:** Maven
 - **Emulador:** Android Emulator (Pixel 7)
 - **Inspección de elementos:** Appium Inspector
 - **ADB & Android SDK**
-- **UiAutomator2** (como motor de automatización)
+- **Motor de automatización:** UiAutomator2
 - **IDE:** NetBeans 24
 
 ---
@@ -27,13 +27,14 @@ Este proyecto implementa pruebas automatizadas sobre la aplicación móvil **Web
 
 ---
 
-## 🔧 Configuración del entorno
+## 🔧 Configuración del Entorno
 
 1. **Instalar JDK 21 o superior**
 2. **Instalar Android Studio y configurar el emulador** (se recomienda Pixel 7)
 3. **Instalar Appium (versión 2) y Appium Inspector**
 4. Iniciar el servidor de Appium:
-appium server --address 127.0.0.1 --port 4723 --base-path /
+   ```bash
+   appium server --address 127.0.0.1 --port 4723 --base-path /
 
 
 
@@ -67,7 +68,7 @@ appium server --address 127.0.0.1 --port 4723 --base-path /
 2. Ejecutá las pruebas desde el IDE o con Maven:
 
 ```bash
-mvn test```
+mvn test
 
 
 ---
