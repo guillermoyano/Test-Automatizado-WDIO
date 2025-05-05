@@ -66,7 +66,6 @@ Este proyecto implementa pruebas automatizadas sobre la aplicación móvil **Web
 
 1. Asegurate de que el emulador esté encendido y Appium corriendo.  
 2. Ejecutá las pruebas desde el IDE o con Maven:
-
 ```bash
    mvn test
 
