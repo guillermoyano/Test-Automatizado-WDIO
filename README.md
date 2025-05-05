@@ -14,7 +14,7 @@ Este proyecto implementa pruebas automatizadas sobre la aplicación móvil **Web
 - **Inspección de elementos:** Appium Inspector
 - **ADB & Android SDK**
 - **Motor de automatización:** UiAutomator2
-- **IDE:** NetBeans 24
+- **IDE:** NetBeans 21
 
 ---
 
@@ -69,8 +69,6 @@ Este proyecto implementa pruebas automatizadas sobre la aplicación móvil **Web
    ```bash
     mvn test
 
-
-
 ---
 
 ## 📝 Buenas Prácticas Aplicadas
@@ -110,19 +108,21 @@ Integración con herramientas de CI (GitHub Actions, Jenkins).
 Validación en dispositivos físicos reales.
 
 📁 Archivo pom.xml (dependencias clave)
-<dependency>
-    <groupId>io.appium</groupId>
-    <artifactId>java-client</artifactId>
-    <version>9.3.0</version>
-</dependency>
-<dependency>
-    <groupId>org.junit.jupiter</groupId>
-    <artifactId>junit-jupiter-api</artifactId>
-    <version>5.8.2</version>
-    <scope>test</scope>
-</dependency>
+   ```bash
+   <dependency>
+       <groupId>io.appium</groupId>
+       <artifactId>java-client</artifactId>
+       <version>9.3.0</version>
+   </dependency>
+   <dependency>
+       <groupId>org.junit.jupiter</groupId>
+       <artifactId>junit-jupiter-api</artifactId>
+       <version>5.8.2</version>
+       <scope>test</scope>
+   </dependency>
 <!-- ...otras dependencias útiles -->
 
+
 🧑‍💻 Autor
-Guillermo Román Moyano
+**Guillermo Román Moyano**
 Estudiante de QA Automation, con formación en backend Java y pasión por la calidad de software, la automatización y el aprendizaje continuo.
