@@ -68,7 +68,8 @@ Este proyecto implementa pruebas automatizadas sobre la aplicación móvil **Web
 2. Ejecutá las pruebas desde el IDE o con Maven:
 
 ```bash
-mvn test
+   mvn test
+
 
 
 ---
