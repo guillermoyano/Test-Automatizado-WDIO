@@ -59,14 +59,16 @@ appium server --address 127.0.0.1 --port 4723 --base-path /
 | 9  | Cierre correcto de la app                                 | La app se cierra sin errores                       | ✓      |
 | 10 | Flujo completo de login y navegación entre secciones      | Todo el recorrido funciona sin fallos              | ✓      |
 
----
+
 
 ## 🧪 Ejecución de las Pruebas
 
-1. Asegurate de que el emulador esté encendido y Appium corriendo.
+1. Asegurate de que el emulador esté encendido y Appium corriendo.  
 2. Ejecutá las pruebas desde el IDE o con Maven:
+
 ```bash
 mvn test
+
 
 
 ---
