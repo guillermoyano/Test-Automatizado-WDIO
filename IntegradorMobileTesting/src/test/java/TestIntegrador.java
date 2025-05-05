@@ -29,10 +29,11 @@ public class TestIntegrador {
 
         // Este método se ejecuta antes de cada prueba
         @BeforeEach
-        public void setUp() throws MalformedURLException {
+        public void setUp() throws MalformedURLException, InterruptedException {
                 driver = crearConexionConParametros(DEVICE_NAME, PLATFORM_NAME, APP_ACTIVITY, APP_PACKAGE);
                 wait = new WebDriverWait(driver, Duration.ofSeconds(10)); // Espera implícita
                 abrirApp();
+                Thread.sleep(2000); // Espera para que la app cargue completamente
         }
 
         // Este método se ejecuta después de cada prueba
