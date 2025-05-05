@@ -69,7 +69,7 @@ appium server --address 127.0.0.1 --port 4723 --base-path /
 mvn test
 
 
-
+---
 
 ## 📝 Buenas Prácticas Aplicadas
 Uso de aserciones claras para validar el comportamiento esperado.
