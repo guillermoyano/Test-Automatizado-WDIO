@@ -2,6 +2,10 @@
 
 Este proyecto implementa pruebas automatizadas sobre la aplicación móvil **WebDriverIO Demo App (v1.0.8)**, diseñada para el aprendizaje y la práctica de automatización móvil. Las pruebas fueron desarrolladas en **Java** utilizando **Appium**, **JUnit**, y ejecutadas sobre un **emulador Android** (Pixel 7) desde **Android Studio**.
 
+🧑‍💻 Autor
+Guillermo Román Moyano
+Estudiante de QA Automation, con formación en backend Java y pasión por la calidad de software, la automatización y el aprendizaje continuo.
+
 ---
 
 ## 🚀 Tecnologías y Herramientas
@@ -122,7 +126,3 @@ Validación en dispositivos físicos reales.
    </dependency>
    <!-- ...otras dependencias útiles -->
 
-
-🧑‍💻 Autor
-Guillermo Román Moyano
-Estudiante de QA Automation, con formación en backend Java y pasión por la calidad de software, la automatización y el aprendizaje continuo.
