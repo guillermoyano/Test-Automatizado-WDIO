@@ -72,6 +72,7 @@ Este proyecto implementa pruebas automatizadas sobre la aplicación móvil **Web
 
 
 ---
+## 🧪 Ejecución de las Pruebas
 
 ## 📝 Buenas Prácticas Aplicadas
 Uso de aserciones claras para validar el comportamiento esperado.
