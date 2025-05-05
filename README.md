@@ -71,7 +71,7 @@ mvn test
 
 
 
-📝 Buenas Prácticas Aplicadas
+## 📝 Buenas Prácticas Aplicadas
 Uso de aserciones claras para validar el comportamiento esperado.
 
 Separación de lógica por métodos reutilizables.
