@@ -120,9 +120,9 @@ Validación en dispositivos físicos reales.
        <version>5.8.2</version>
        <scope>test</scope>
    </dependency>
-<!-- ...otras dependencias útiles -->
+   <!-- ...otras dependencias útiles -->
 
 
 🧑‍💻 Autor
-**Guillermo Román Moyano**
+Guillermo Román Moyano
 Estudiante de QA Automation, con formación en backend Java y pasión por la calidad de software, la automatización y el aprendizaje continuo.
