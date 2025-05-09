@@ -87,7 +87,10 @@ Pruebas independientes y controladas.
 Planeado para futura implementación de Page Object Model (POM).
 
 📹 Demostración en Video
-https://youtu.be/5Lbit5e1TSg 👉 Muestra el funcionamiento de estas pruebas.
+
+<a href="https://youtu.be/5Lbit5e1TSg" target="_blank">
+  <img src="https://youtu.be/5Lbit5e1TSg/0.jpg" alt="Video Demo" width="400"/>
+</a>
 
 Inicio de Appium
 
