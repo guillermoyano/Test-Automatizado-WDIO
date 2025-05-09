@@ -88,6 +88,11 @@ Planeado para futura implementación de Page Object Model (POM).
 
 📹 Demostración en Video
 
+<a href="https://youtu.be/5Lbit5e1TSg" target="_blank">
+  <img src="https://img.youtube.com/vi/5Lbit5e1TSg/0.jpg" alt="Video de Demostración" width="480"/>
+</a>
+
+
 Inicio de Appium
 
 Lanzamiento del emulador
