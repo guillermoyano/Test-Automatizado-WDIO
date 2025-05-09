@@ -76,31 +76,27 @@ Estudiante de QA Automation, con formación en backend Java y pasión por la cal
 ---
 
 ## 📝 Buenas Prácticas Aplicadas
-Uso de aserciones claras para validar el comportamiento esperado.
 
-Separación de lógica por métodos reutilizables.
+- Uso de aserciones claras para validar el comportamiento esperado.  
+- Separación de lógica por métodos reutilizables.  
+- Simulación de flujo completo del usuario en la aplicación.  
+- Pruebas independientes y controladas.  
+- Planeado para futura implementación de Page Object Model (POM).  
 
-Simulación de flujo completo del usuario en la aplicación.
+---
 
-Pruebas independientes y controladas.
+## 📹 Demostración en Video
 
-Planeado para futura implementación de Page Object Model (POM).
+▶️ [Ir al video de demostración en YouTube](https://youtu.be/5Lbit5e1TSg)
 
-📹 Demostración en Video
+El video incluye:
 
-<a href="https://youtu.be/5Lbit5e1TSg" target="_blank">
-  <img src="https://img.youtube.com/vi/5Lbit5e1TSg/0.jpg" alt="Video de Demostración" width="480"/>
-</a>
+- Inicio de Appium  
+- Lanzamiento del emulador  
+- Ejecución de los test  
+- Resultados en consola  
+- Comprobación visual de la automatización  
 
-Inicio de Appium
-
-Lanzamiento del emulador
-
-Ejecución de los test
-
-Resultados en consola
-
-Comprobación visual de la automatización
 
 💡 Lecciones Aprendidas
 Durante este proyecto aprendí a integrar Appium con un emulador Android, automatizar flujos comunes de prueba mobile, validar comportamientos esperados con aserciones, y mejorar la estructura de código con métodos reutilizables. También entendí la importancia de la sincronización y la robustez de los test automatizados.
